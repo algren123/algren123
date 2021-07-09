@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+- 🔭 You can find my portfolio here: https://algrenpauna.vercel.app/
+- 🌱 Currently learning AWS, Node.JS & Express
+- 📫 Currently working for Vertu Motors as a Web Developer
+
+https://github-readme-stats.vercel.app/api?username=algren123&theme=bear&hide=issues&show_icons=true
+
 <!--
-**algren123/algren123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
