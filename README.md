@@ -4,8 +4,7 @@
 - 🌱 Currently learning AWS, Node.JS & Express
 - 📫 Currently working for Vertu Motors as a Web Developer
 
-(https://github-readme-stats.vercel.app/api?username=algren123&theme=bear&hide=issues&show_icons=true)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=algren123&theme=bear&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 Here are some ideas to get you started:
