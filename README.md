@@ -8,8 +8,8 @@
 - Outside tech, I love bouldering 🧗🏻‍♂️, espresso ☕, F1 🏎️ and football ⚽.
 
 <a href="www.google.com">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=algren123&theme=tokyonight&hide=issues&show_icons=true&include_all_commits=true&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=algren123&theme=tokyonight&hide=issues&show_icons=true&include_all_commits=true&bg_color=00000000" />
 </a>
 <a href="www.google.com">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algren123&theme=tokyonight&layout=compact&langs_count=8&card_width=320&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algren123&theme=tokyonight&layout=compact&card_width=320&bg_color=00000000" />
 </a>
